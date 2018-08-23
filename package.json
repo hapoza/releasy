@@ -1,5 +1,5 @@
 {
-  "name": "releasy",
+  "name": "releasy-mono",
   "version": "1.10.0",
   "description": "CLI tool to release node applications with tag and auto semver bump",
   "main": "lib/releasy.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/vtex/releasy.git"
+    "url": "git://github.com/hapoza/releasy.git"
   },
   "keywords": [
     "CLI",
@@ -20,9 +20,9 @@
   "author": "Guiherme Rodrigues",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vtex/releasy/issues"
+    "url": "https://github.com/hapoza/releasy/issues"
   },
-  "homepage": "https://github.com/vtex/releasy",
+  "homepage": "https://github.com/hapoza/releasy",
   "dependencies": {
     "camelcase": "^4.0.0",
     "commander": "~2.9.0",
