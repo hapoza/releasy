@@ -1,6 +1,6 @@
 # Releasy Mono
 
-This is a fork of [Releasy](https://github.com/vtex/releasy) aiming at managing multiple packages withing one repository (aka monorepo).
+This is a fork of [Releasy](https://github.com/vtex/releasy) aiming at managing multiple packages within one repository (aka monorepo).
 It adds two new configurations, `tag-prefix` and `msg-prefix`.
 
 `tag-prefix` makes it possible to have tags for multiple packages in
